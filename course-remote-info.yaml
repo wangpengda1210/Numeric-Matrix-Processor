@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/271195/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 16 Nov 2020 00:01:12 UTC
+update_date: Fri, 20 Nov 2020 02:34:57 UTC
 stages:
 - id: 480
   step: 7786
@@ -75,6 +75,8 @@ topics:
     theory_id: 4540
   - title: Arrays
     theory_id: 4564
+  - title: String arrays
+    theory_id: 11477
   - title: If expression
     theory_id: 4625
   - title: Repeating blocks
